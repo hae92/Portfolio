@@ -18,7 +18,7 @@
 - 근무지
    - 본사
 ### 준비
-- (Bentley Staad는 무언인가?)[2023/현대 엔지니어링/자료조사/Bentley Staad.md]
+- [Bentley Staad는 무언인가?](https://github.com/hae92/Portfolio/blob/main/2023/%ED%98%84%EB%8C%80%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81/%EC%9E%90%EB%A3%8C%EC%A1%B0%EC%82%AC/Bentley%20Staad.md)
 - Bentley OpenStaad API 활용하는 예제 코드 작성
 - Rest API 예제 코드 작성
 - DevExpress 조사
