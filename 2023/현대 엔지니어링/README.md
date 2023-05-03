@@ -22,3 +22,4 @@
 - Bentley OpenStaad API 활용하는 예제 코드 작성
 - Rest API 예제 코드 작성
 - DevExpress 조사
+- https://hec.recruiter.co.kr/mrs2/applicant/resume/writeResume
