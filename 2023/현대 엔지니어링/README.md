@@ -3,7 +3,7 @@
 - 직무
    - 연구개발 ( IT )
 - 수행 업무
-   - Bently Staad 제품의 자동화 시스템 개발 및 성과품 검토
+   - Bentley Staad 제품의 자동화 시스템 개발 및 성과품 검토
    - 윈도우 응용 프로그램 개발
 - 자격 요건 및 우대사항
    - 자격 요건
@@ -17,3 +17,8 @@
       4. Rest API 사용 
 - 근무지
    - 본사
+### 준비
+- Bentley Staad는 무언인가?
+- Bentley OpenStaad API 활용하는 예제 코드 작성
+- Rest API 예제 코드 작성
+- DevExpress 조사
