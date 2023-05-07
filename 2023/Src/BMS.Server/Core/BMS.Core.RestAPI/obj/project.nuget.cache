@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1/UABq0GDNgf08B9rrOPOkWqA5vCLLAIkAygs8LjmDJdBZT1D+v3/Ua19MJLA8dVcGyNbX0eJe5rwgp4Xs3mjw==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\BMS.Server\\Core\\BMS.Core.RestAPI\\BMS.Core.RestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sungh\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\sungh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\sungh\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\sungh\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SyIYf53LLUjDqsnIUCs/yajLua5Z47dlYIriu9a7g3z/VPUKyEaT9p6nWFNcvyI0BKZMMdbjKAEp0enWSaGk/g==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\BMS.Server\\Core\\BMS.Core.Parser\\BMS.Core.Parser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sungh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

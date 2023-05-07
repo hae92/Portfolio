@@ -1,0 +1,12 @@
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\bin\Debug\net6.0\BMS.Core.RestAPI.deps.json
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\bin\Debug\net6.0\BMS.Core.RestAPI.dll
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\bin\Debug\net6.0\ref\BMS.Core.RestAPI.dll
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\bin\Debug\net6.0\BMS.Core.RestAPI.pdb
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\obj\Debug\net6.0\BMS.Core.RestAPI.csproj.AssemblyReference.cache
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\obj\Debug\net6.0\BMS.Core.RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\obj\Debug\net6.0\BMS.Core.RestAPI.AssemblyInfoInputs.cache
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\obj\Debug\net6.0\BMS.Core.RestAPI.AssemblyInfo.cs
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\obj\Debug\net6.0\BMS.Core.RestAPI.csproj.CoreCompileInputs.cache
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\obj\Debug\net6.0\BMS.Core.RestAPI.dll
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\obj\Debug\net6.0\ref\BMS.Core.RestAPI.dll
+C:\Project\BMS.Server\Core\BMS.Core.RestAPI\obj\Debug\net6.0\BMS.Core.RestAPI.pdb

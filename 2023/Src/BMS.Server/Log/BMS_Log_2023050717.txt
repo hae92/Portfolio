@@ -1,0 +1,24 @@
+2023-05-07 17:02:16.212 +09:00 [DBG] [Program][<Main>$         ][0017] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:02:17.827 +09:00 [DBG] [Program][<Main>$         ][0039] Data Data Size : 16
+2023-05-07 17:03:25.366 +09:00 [DBG] [Program][<Main>$         ][0017] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:03:27.007 +09:00 [DBG] [Program][<Main>$         ][0039] Data Data Size : 16
+2023-05-07 17:32:58.963 +09:00 [DBG] [Program][<Main>$         ][0018] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:33:00.640 +09:00 [DBG] [Program][<Main>$         ][0040] Data Data Size : 16
+2023-05-07 17:35:25.062 +09:00 [DBG] [Program][<Main>$         ][0018] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:35:26.375 +09:00 [DBG] [Program][<Main>$         ][0040] Data Data Size : 16
+2023-05-07 17:35:46.378 +09:00 [DBG] [Program][<Main>$         ][0018] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:35:48.018 +09:00 [DBG] [Program][<Main>$         ][0040] Data Data Size : 16
+2023-05-07 17:41:35.483 +09:00 [DBG] [Program][<Main>$         ][0018] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:41:37.023 +09:00 [DBG] [Program][<Main>$         ][0040] Data Data Size : 16
+2023-05-07 17:42:24.571 +09:00 [DBG] [Program][<Main>$         ][0018] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:42:26.093 +09:00 [DBG] [Program][<Main>$         ][0040] Data Data Size : 16
+2023-05-07 17:49:35.196 +09:00 [DBG] [Program][<Main>$         ][0018] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:49:37.044 +09:00 [DBG] [Program][<Main>$         ][0040] Data Data Size : 16
+2023-05-07 17:50:28.109 +09:00 [DBG] [Program][<Main>$         ][0018] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:50:29.455 +09:00 [DBG] [Program][<Main>$         ][0040] Data Data Size : 16
+2023-05-07 17:51:00.496 +09:00 [DBG] [Program][<Main>$         ][0018] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:51:01.818 +09:00 [DBG] [Program][<Main>$         ][0040] Data Data Size : 16
+2023-05-07 17:53:56.479 +09:00 [DBG] [Program][<Main>$         ][0018] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:53:57.938 +09:00 [DBG] [Program][<Main>$         ][0044] Data Data Size : 16
+2023-05-07 17:58:26.490 +09:00 [DBG] [Program][<Main>$         ][0018] Run Application, BMS.Worker.DataCollector
+2023-05-07 17:58:43.272 +09:00 [DBG] [Program][<Main>$         ][0018] Run Application, BMS.Worker.DataCollector

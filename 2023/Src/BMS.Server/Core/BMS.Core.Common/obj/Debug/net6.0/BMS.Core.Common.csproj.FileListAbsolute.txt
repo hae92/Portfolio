@@ -1,0 +1,12 @@
+C:\Project\BMS.Server\Core\BMS.Core.Common\bin\Debug\net6.0\BMS.Core.Common.deps.json
+C:\Project\BMS.Server\Core\BMS.Core.Common\bin\Debug\net6.0\BMS.Core.Common.dll
+C:\Project\BMS.Server\Core\BMS.Core.Common\bin\Debug\net6.0\ref\BMS.Core.Common.dll
+C:\Project\BMS.Server\Core\BMS.Core.Common\bin\Debug\net6.0\BMS.Core.Common.pdb
+C:\Project\BMS.Server\Core\BMS.Core.Common\obj\Debug\net6.0\BMS.Core.Common.csproj.AssemblyReference.cache
+C:\Project\BMS.Server\Core\BMS.Core.Common\obj\Debug\net6.0\BMS.Core.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\BMS.Server\Core\BMS.Core.Common\obj\Debug\net6.0\BMS.Core.Common.AssemblyInfoInputs.cache
+C:\Project\BMS.Server\Core\BMS.Core.Common\obj\Debug\net6.0\BMS.Core.Common.AssemblyInfo.cs
+C:\Project\BMS.Server\Core\BMS.Core.Common\obj\Debug\net6.0\BMS.Core.Common.csproj.CoreCompileInputs.cache
+C:\Project\BMS.Server\Core\BMS.Core.Common\obj\Debug\net6.0\BMS.Core.Common.dll
+C:\Project\BMS.Server\Core\BMS.Core.Common\obj\Debug\net6.0\ref\BMS.Core.Common.dll
+C:\Project\BMS.Server\Core\BMS.Core.Common\obj\Debug\net6.0\BMS.Core.Common.pdb

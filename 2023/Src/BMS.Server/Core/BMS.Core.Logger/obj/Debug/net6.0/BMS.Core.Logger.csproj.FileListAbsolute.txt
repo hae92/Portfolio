@@ -1,0 +1,11 @@
+C:\Project\BMS.Server\Core\BMS.Core.Logger\bin\Debug\net6.0\BMS.Core.Logger.deps.json
+C:\Project\BMS.Server\Core\BMS.Core.Logger\bin\Debug\net6.0\BMS.Core.Logger.dll
+C:\Project\BMS.Server\Core\BMS.Core.Logger\bin\Debug\net6.0\ref\BMS.Core.Logger.dll
+C:\Project\BMS.Server\Core\BMS.Core.Logger\bin\Debug\net6.0\BMS.Core.Logger.pdb
+C:\Project\BMS.Server\Core\BMS.Core.Logger\obj\Debug\net6.0\BMS.Core.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\BMS.Server\Core\BMS.Core.Logger\obj\Debug\net6.0\BMS.Core.Logger.AssemblyInfoInputs.cache
+C:\Project\BMS.Server\Core\BMS.Core.Logger\obj\Debug\net6.0\BMS.Core.Logger.AssemblyInfo.cs
+C:\Project\BMS.Server\Core\BMS.Core.Logger\obj\Debug\net6.0\BMS.Core.Logger.csproj.CoreCompileInputs.cache
+C:\Project\BMS.Server\Core\BMS.Core.Logger\obj\Debug\net6.0\BMS.Core.Logger.dll
+C:\Project\BMS.Server\Core\BMS.Core.Logger\obj\Debug\net6.0\ref\BMS.Core.Logger.dll
+C:\Project\BMS.Server\Core\BMS.Core.Logger\obj\Debug\net6.0\BMS.Core.Logger.pdb

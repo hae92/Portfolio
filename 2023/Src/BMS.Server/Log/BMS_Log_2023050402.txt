@@ -1,0 +1,29 @@
+2023-05-04 02:09:08.551 +09:00 [DBG] [Program][<Main>$         ][0012] Run Application, BMS.Worker.DataCollector
+2023-05-04 02:09:18.660 +09:00 [DBG] [Program][<Main>$         ][0018] Stop Application, BMS.Worker.DataCollector
+2023-05-04 02:25:19.500 +09:00 [DBG] [Program][<Main>$         ][0013] Run Application, BMS.Worker.DataCollector
+2023-05-04 02:25:22.964 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0046] Recieved Message : TEST
+2023-05-04 02:25:26.292 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0046] Recieved Message : TEST
+2023-05-04 02:25:27.555 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0046] Recieved Message : TEST
+2023-05-04 02:25:30.386 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0046] Recieved Message : TEST
+2023-05-04 02:29:19.335 +09:00 [DBG] [Program][<Main>$         ][0013] Run Application, BMS.Worker.DataCollector
+2023-05-04 02:29:24.065 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Run
+2023-05-04 02:29:38.909 +09:00 [DBG] [Program][<Main>$         ][0013] Run Application, BMS.Worker.DataCollector
+2023-05-04 02:29:44.778 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Run Schedule
+2023-05-04 02:30:38.935 +09:00 [DBG] [Program][<Main>$         ][0013] Run Application, BMS.Worker.DataCollector
+2023-05-04 02:31:00.364 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Run Schedule
+2023-05-04 02:31:10.009 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Run Schedule
+2023-05-04 02:32:15.758 +09:00 [DBG] [Program][<Main>$         ][0013] Run Application, BMS.Worker.DataCollector
+2023-05-04 02:32:26.103 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Run Schedule
+2023-05-04 02:32:31.122 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Schedule Message
+2023-05-04 02:32:36.134 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Schedule Message
+2023-05-04 02:32:41.149 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Schedule Message
+2023-05-04 02:32:46.151 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Schedule Message
+2023-05-04 02:32:51.164 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Schedule Message
+2023-05-04 02:32:56.175 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Schedule Message
+2023-05-04 02:33:01.182 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Schedule Message
+2023-05-04 02:33:06.201 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Schedule Message
+2023-05-04 02:33:09.320 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : 
+2023-05-04 02:33:10.278 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : 
+2023-05-04 02:33:10.461 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : 
+2023-05-04 02:33:11.223 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Schedule Message
+2023-05-04 02:33:14.662 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Stop Schedule

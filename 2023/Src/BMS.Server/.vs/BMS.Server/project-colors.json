@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "dd9434db-32fe-4d75-af0d-0d2979b412c1": {
+      "ProjectGuid": "dd9434db-32fe-4d75-af0d-0d2979b412c1",
+      "DisplayName": "BMS.Server",
+      "ColorIndex": 0
+    },
+    "5e34a9aa-44ea-4d7e-ab4b-0014323cbaf6": {
+      "ProjectGuid": "5e34a9aa-44ea-4d7e-ab4b-0014323cbaf6",
+      "DisplayName": "BMS.Core.JsonUtil",
+      "ColorIndex": 1
+    },
+    "a26c2e09-d89c-4ed6-b4ff-31f9adeb191c": {
+      "ProjectGuid": "a26c2e09-d89c-4ed6-b4ff-31f9adeb191c",
+      "DisplayName": "BMS.Util.Parser",
+      "ColorIndex": 2
+    },
+    "847cf3ae-e878-40f4-bcc4-bee2aed1fe8c": {
+      "ProjectGuid": "847cf3ae-e878-40f4-bcc4-bee2aed1fe8c",
+      "DisplayName": "BMS.Core.Parser",
+      "ColorIndex": 3
+    },
+    "227f5983-3f59-4b09-a6fb-48bbb28a6835": {
+      "ProjectGuid": "227f5983-3f59-4b09-a6fb-48bbb28a6835",
+      "DisplayName": "BMS.Core.Parser",
+      "ColorIndex": 4
+    },
+    "b2432631-93d7-4b7e-b884-78e55f3df9dc": {
+      "ProjectGuid": "b2432631-93d7-4b7e-b884-78e55f3df9dc",
+      "DisplayName": "BMS.Worker.DataCollector",
+      "ColorIndex": 5
+    },
+    "22f20323-e37a-462e-a387-e009ba074d1c": {
+      "ProjectGuid": "22f20323-e37a-462e-a387-e009ba074d1c",
+      "DisplayName": "BMS.Worker.DataCollector",
+      "ColorIndex": 6
+    },
+    "90c7c882-5ba3-4e3f-8fac-3222d7ff990e": {
+      "ProjectGuid": "90c7c882-5ba3-4e3f-8fac-3222d7ff990e",
+      "DisplayName": "BMS.Actor.Manager",
+      "ColorIndex": 7
+    },
+    "b2d3e522-50ff-4fe5-8578-aa9759aee7f2": {
+      "ProjectGuid": "b2d3e522-50ff-4fe5-8578-aa9759aee7f2",
+      "DisplayName": "BMS.Actor.Manager",
+      "ColorIndex": 8
+    },
+    "289342cd-4d2a-4cc3-84df-4f086cfad179": {
+      "ProjectGuid": "289342cd-4d2a-4cc3-84df-4f086cfad179",
+      "DisplayName": "BMS.Core.Logger",
+      "ColorIndex": 9
+    },
+    "88abb9af-a4a2-4d1d-b6bd-525bdc8c17cc": {
+      "ProjectGuid": "88abb9af-a4a2-4d1d-b6bd-525bdc8c17cc",
+      "DisplayName": "BMS.Core.Logger",
+      "ColorIndex": 10
+    },
+    "070d875d-596d-459a-a0a5-983ac4efa5cf": {
+      "ProjectGuid": "070d875d-596d-459a-a0a5-983ac4efa5cf",
+      "DisplayName": "BMS.Core.Common",
+      "ColorIndex": 11
+    },
+    "3ea9a9e7-2f6f-403a-a92f-52ac06717686": {
+      "ProjectGuid": "3ea9a9e7-2f6f-403a-a92f-52ac06717686",
+      "DisplayName": "BMS.Core.Common",
+      "ColorIndex": 12
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    },
+    "e905bf8d-47ab-417d-881c-0014b6d3eedf": {
+      "ProjectGuid": "e905bf8d-47ab-417d-881c-0014b6d3eedf",
+      "DisplayName": "BMS.Core.API",
+      "ColorIndex": 13
+    },
+    "bfe55002-3be6-45c3-971c-6f676469cdd6": {
+      "ProjectGuid": "bfe55002-3be6-45c3-971c-6f676469cdd6",
+      "DisplayName": "BMS.Core.WScoket",
+      "ColorIndex": 14
+    },
+    "95ff9767-712e-4dd7-8b90-94a802c3df6f": {
+      "ProjectGuid": "95ff9767-712e-4dd7-8b90-94a802c3df6f",
+      "DisplayName": "BMS.Core.DB",
+      "ColorIndex": 15
+    },
+    "343d074b-8daf-4387-8086-6ad05f858d72": {
+      "ProjectGuid": "343d074b-8daf-4387-8086-6ad05f858d72",
+      "DisplayName": "BMS.Core.DB",
+      "ColorIndex": 0
+    },
+    "fb891595-b551-4673-9599-af56931c47e3": {
+      "ProjectGuid": "fb891595-b551-4673-9599-af56931c47e3",
+      "DisplayName": "BMS.Core.RestAPI",
+      "ColorIndex": 1
+    },
+    "93a5bf77-d605-47d1-8888-d543a361b293": {
+      "ProjectGuid": "93a5bf77-d605-47d1-8888-d543a361b293",
+      "DisplayName": "BMS.Core.RestAPI",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

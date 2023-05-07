@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Actor\BMS.Actor.Manager\BMS.Actor.Manager.csproj" />
+    <ProjectReference Include="..\..\Core\BMS.Core.Common\BMS.Core.Common.csproj" />
+    <ProjectReference Include="..\..\Core\BMS.Core.DB\BMS.Core.DB.csproj" />
+    <ProjectReference Include="..\..\Core\BMS.Core.Logger\BMS.Core.Logger.csproj" />
+    <ProjectReference Include="..\..\Core\BMS.Core.Parser\BMS.Core.Parser.csproj" />
+    <ProjectReference Include="..\..\Core\BMS.Core.RestAPI\BMS.Core.RestAPI.csproj" />
+  </ItemGroup>
+
+</Project>

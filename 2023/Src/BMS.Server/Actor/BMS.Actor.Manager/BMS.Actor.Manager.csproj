@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Akka" Version="1.5.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Collector\" />
+    <Folder Include="Message\" />
+    <Folder Include="Simulator\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\BMS.Core.Common\BMS.Core.Common.csproj" />
+    <ProjectReference Include="..\..\Core\BMS.Core.Logger\BMS.Core.Logger.csproj" />
+  </ItemGroup>
+
+</Project>

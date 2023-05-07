@@ -1,0 +1,17 @@
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\bin\Debug\net6.0\BMS.Actor.Manager.deps.json
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\bin\Debug\net6.0\BMS.Actor.Manager.dll
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\bin\Debug\net6.0\ref\BMS.Actor.Manager.dll
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\bin\Debug\net6.0\BMS.Actor.Manager.pdb
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\bin\Debug\net6.0\BMS.Core.Common.dll
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\bin\Debug\net6.0\BMS.Core.Logger.dll
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\bin\Debug\net6.0\BMS.Core.Common.pdb
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\bin\Debug\net6.0\BMS.Core.Logger.pdb
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\obj\Debug\net6.0\BMS.Actor.Manager.csproj.AssemblyReference.cache
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\obj\Debug\net6.0\BMS.Actor.Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\obj\Debug\net6.0\BMS.Actor.Manager.AssemblyInfoInputs.cache
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\obj\Debug\net6.0\BMS.Actor.Manager.AssemblyInfo.cs
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\obj\Debug\net6.0\BMS.Actor.Manager.csproj.CoreCompileInputs.cache
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\obj\Debug\net6.0\BMS.Actor.Manager.csproj.CopyComplete
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\obj\Debug\net6.0\BMS.Actor.Manager.dll
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\obj\Debug\net6.0\ref\BMS.Actor.Manager.dll
+C:\Project\BMS.Server\Actor\BMS.Actor.Manager\obj\Debug\net6.0\BMS.Actor.Manager.pdb

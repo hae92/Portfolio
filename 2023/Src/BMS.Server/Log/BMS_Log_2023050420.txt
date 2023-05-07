@@ -1,0 +1,391 @@
+2023-05-04 20:50:09.110 +09:00 [DBG] [Program][<Main>$         ][0014] Run Application, BMS.Worker.DataCollector
+2023-05-04 20:51:02.440 +09:00 [DBG] [Program][<Main>$         ][0014] Run Application, BMS.Worker.DataCollector
+2023-05-04 20:51:03.352 +09:00 [DBG] [Program][<Main>$         ][0027] 
+[{"market":"KRW-BTC","trade_date":"20230504","trade_time":"115110","trade_date_kst":"20230504","trade_time_kst":"205110","trade_timestamp":1683201070658,"opening_price":38733000.0000,"high_price":39112000.0000,"low_price":38605000.0000,"trade_price":38972000.0000,"prev_closing_price":38703000.00000000,"change":"RISE","change_price":269000.00000000,"change_rate":0.0069503656,"signed_change_price":269000.00000000,"signed_change_rate":0.0069503656,"trade_volume":0.00462966,"acc_trade_price":97752238890.792670000000,"acc_trade_price_24h":227083490580.72588000,"acc_trade_volume":2518.11705245,"acc_trade_volume_24h":5890.39230552,"highest_52_week_price":47800000.00000000,"highest_52_week_date":"2022-05-06","lowest_52_week_price":20700000.00000000,"lowest_52_week_date":"2022-12-30","timestamp":1683201070687}]
+2023-05-04 20:51:08.398 +09:00 [DBG] [Program][<Main>$         ][0027] 
+[{"market":"KRW-BTC","trade_date":"20230504","trade_time":"115116","trade_date_kst":"20230504","trade_time_kst":"205116","trade_timestamp":1683201076319,"opening_price":38733000.0000,"high_price":39112000.0000,"low_price":38605000.0000,"trade_price":38970000.0000,"prev_closing_price":38703000.00000000,"change":"RISE","change_price":267000.00000000,"change_rate":0.0068986900,"signed_change_price":267000.00000000,"signed_change_rate":0.0068986900,"trade_volume":0.00307692,"acc_trade_price":97758458888.050080000000,"acc_trade_price_24h":227083490580.72588000,"acc_trade_volume":2518.27666383,"acc_trade_volume_24h":5890.39230552,"highest_52_week_price":47800000.00000000,"highest_52_week_date":"2022-05-06","lowest_52_week_price":20700000.00000000,"lowest_52_week_date":"2022-12-30","timestamp":1683201076353}]
+2023-05-04 20:51:13.448 +09:00 [DBG] [Program][<Main>$         ][0027] 
+[{"market":"KRW-BTC","trade_date":"20230504","trade_time":"115125","trade_date_kst":"20230504","trade_time_kst":"205125","trade_timestamp":1683201085067,"opening_price":38733000.0000,"high_price":39112000.0000,"low_price":38605000.0000,"trade_price":38972000.0000,"prev_closing_price":38703000.00000000,"change":"RISE","change_price":269000.00000000,"change_rate":0.0069503656,"signed_change_price":269000.00000000,"signed_change_rate":0.0069503656,"trade_volume":0.00022329,"acc_trade_price":97763050278.300770000000,"acc_trade_price_24h":227083490580.72588000,"acc_trade_volume":2518.39448802,"acc_trade_volume_24h":5890.39230552,"highest_52_week_price":47800000.00000000,"highest_52_week_date":"2022-05-06","lowest_52_week_price":20700000.00000000,"lowest_52_week_date":"2022-12-30","timestamp":1683201085091}]
+2023-05-04 20:51:18.490 +09:00 [DBG] [Program][<Main>$         ][0027] 
+[{"market":"KRW-BTC","trade_date":"20230504","trade_time":"115129","trade_date_kst":"20230504","trade_time_kst":"205129","trade_timestamp":1683201089506,"opening_price":38733000.0000,"high_price":39112000.0000,"low_price":38605000.0000,"trade_price":38964000.0000,"prev_closing_price":38703000.00000000,"change":"RISE","change_price":261000.00000000,"change_rate":0.0067436633,"signed_change_price":261000.00000000,"signed_change_rate":0.0067436633,"trade_volume":0.03350832,"acc_trade_price":97775465192.315140000000,"acc_trade_price_24h":227083490580.72588000,"acc_trade_volume":2518.71308874,"acc_trade_volume_24h":5890.39230552,"highest_52_week_price":47800000.00000000,"highest_52_week_date":"2022-05-06","lowest_52_week_price":20700000.00000000,"lowest_52_week_date":"2022-12-30","timestamp":1683201089549}]
+2023-05-04 20:54:45.664 +09:00 [DBG] [Program][<Main>$         ][0015] Run Application, BMS.Worker.DataCollector
+2023-05-04 20:54:54.124 +09:00 [DBG] [Program][<Main>$         ][0015] Run Application, BMS.Worker.DataCollector
+2023-05-04 20:54:57.651 +09:00 [DBG] [Program][<Main>$         ][0030] 
+"[{\"market\":\"KRW-BTC\",\"trade_date\":\"20230504\",\"trade_time\":\"115506\",\"trade_date_kst\":\"20230504\",\"trade_time_kst\":\"205506\",\"trade_timestamp\":1683201306082,\"opening_price\":38733000.0000,\"high_price\":39112000.0000,\"low_price\":38605000.0000,\"trade_price\":38929000.0000,\"prev_closing_price\":38703000.00000000,\"change\":\"RISE\",\"change_price\":226000.00000000,\"change_rate\":0.0058393406,\"signed_change_price\":226000.00000000,\"signed_change_rate\":0.0058393406,\"trade_volume\":0.00780428,\"acc_trade_price\":98138610452.925210000000,\"acc_trade_price_24h\":226196389740.59624000,\"acc_trade_volume\":2528.04198755,\"acc_trade_volume_24h\":5866.99449209,\"highest_52_week_price\":47800000.00000000,\"highest_52_week_date\":\"2022-05-06\",\"lowest_52_week_price\":20700000.00000000,\"lowest_52_week_date\":\"2022-12-30\",\"timestamp\":1683201306112}]"
+2023-05-04 20:55:37.928 +09:00 [DBG] [Program][<Main>$         ][0015] Run Application, BMS.Worker.DataCollector
+2023-05-04 20:55:40.883 +09:00 [DBG] [Program][<Main>$         ][0030] 
+"[{\"market\":\"KRW-BTC\",\"trade_date\":\"20230504\",\"trade_time\":\"115547\",\"trade_date_kst\":\"20230504\",\"trade_time_kst\":\"205547\",\"trade_timestamp\":1683201347386,\"opening_price\":38733000.0000,\"high_price\":39112000.0000,\"low_price\":38605000.0000,\"trade_price\":38926000.0000,\"prev_closing_price\":38703000.00000000,\"change\":\"RISE\",\"change_price\":223000.00000000,\"change_rate\":0.0057618272,\"signed_change_price\":223000.00000000,\"signed_change_rate\":0.0057618272,\"trade_volume\":0.00065384,\"acc_trade_price\":98192816698.003240000000,\"acc_trade_price_24h\":226225317581.04739000,\"acc_trade_volume\":2529.43451160,\"acc_trade_volume_24h\":5867.73762872,\"highest_52_week_price\":47800000.00000000,\"highest_52_week_date\":\"2022-05-06\",\"lowest_52_week_price\":20700000.00000000,\"lowest_52_week_date\":\"2022-12-30\",\"timestamp\":1683201347408}]"
+2023-05-04 20:57:06.373 +09:00 [DBG] [Program][<Main>$         ][0015] Run Application, BMS.Worker.DataCollector
+2023-05-04 20:57:08.937 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115719",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205719",
+    "trade_timestamp": 1683201439006,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38978000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 275000.0,
+    "change_rate": 0.0071053923,
+    "signed_change_price": 275000.0,
+    "signed_change_rate": 0.0071053923,
+    "trade_volume": 0.00019242,
+    "acc_trade_price": 98318688158.39522,
+    "acc_trade_price_24h": 226368928945.434,
+    "acc_trade_volume": 2532.66650916,
+    "acc_trade_volume_24h": 5871.42590119,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201439037
+  }
+]
+2023-05-04 20:57:16.629 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115727",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205727",
+    "trade_timestamp": 1683201447513,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38984000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 281000.0,
+    "change_rate": 0.0072604191,
+    "signed_change_price": 281000.0,
+    "signed_change_rate": 0.0072604191,
+    "trade_volume": 0.00953047,
+    "acc_trade_price": 98320769077.87402,
+    "acc_trade_price_24h": 226368928945.434,
+    "acc_trade_volume": 2532.71988861,
+    "acc_trade_volume_24h": 5871.42590119,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201447552
+  }
+]
+2023-05-04 20:57:21.697 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115733",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205733",
+    "trade_timestamp": 1683201453023,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38979000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 276000.0,
+    "change_rate": 0.0071312301,
+    "signed_change_price": 276000.0,
+    "signed_change_rate": 0.0071312301,
+    "trade_volume": 0.011,
+    "acc_trade_price": 98328482392.45067,
+    "acc_trade_price_24h": 226388864095.7535,
+    "acc_trade_volume": 2532.91776886,
+    "acc_trade_volume_24h": 5871.93731255,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201453053
+  }
+]
+2023-05-04 20:57:26.758 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115736",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205736",
+    "trade_timestamp": 1683201456571,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38984000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 281000.0,
+    "change_rate": 0.0072604191,
+    "signed_change_price": 281000.0,
+    "signed_change_rate": 0.0072604191,
+    "trade_volume": 0.00041393,
+    "acc_trade_price": 98331476573.03175,
+    "acc_trade_price_24h": 226388864095.7535,
+    "acc_trade_volume": 2532.99458403,
+    "acc_trade_volume_24h": 5871.93731255,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201456608
+  }
+]
+2023-05-04 20:57:31.806 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115742",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205742",
+    "trade_timestamp": 1683201462097,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38984000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 281000.0,
+    "change_rate": 0.0072604191,
+    "signed_change_price": 281000.0,
+    "signed_change_rate": 0.0072604191,
+    "trade_volume": 0.00639116,
+    "acc_trade_price": 98331995762.72343,
+    "acc_trade_price_24h": 226388864095.7535,
+    "acc_trade_volume": 2533.00790205,
+    "acc_trade_volume_24h": 5871.93731255,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201462131
+  }
+]
+2023-05-04 20:57:36.883 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115748",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205748",
+    "trade_timestamp": 1683201468402,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38980000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 277000.0,
+    "change_rate": 0.0071570679,
+    "signed_change_price": 277000.0,
+    "signed_change_rate": 0.0071570679,
+    "trade_volume": 0.04818889,
+    "acc_trade_price": 98347047971.61595,
+    "acc_trade_price_24h": 226388864095.7535,
+    "acc_trade_volume": 2533.39403105,
+    "acc_trade_volume_24h": 5871.93731255,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201468437
+  }
+]
+2023-05-04 20:57:41.925 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115751",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205751",
+    "trade_timestamp": 1683201471529,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38984000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 281000.0,
+    "change_rate": 0.0072604191,
+    "signed_change_price": 281000.0,
+    "signed_change_rate": 0.0072604191,
+    "trade_volume": 0.00790852,
+    "acc_trade_price": 98357470157.87192,
+    "acc_trade_price_24h": 226388864095.7535,
+    "acc_trade_volume": 2533.66140554,
+    "acc_trade_volume_24h": 5871.93731255,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201471571
+  }
+]
+2023-05-04 20:57:46.966 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115756",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205756",
+    "trade_timestamp": 1683201476909,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38984000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 281000.0,
+    "change_rate": 0.0072604191,
+    "signed_change_price": 281000.0,
+    "signed_change_rate": 0.0072604191,
+    "trade_volume": 0.00092171,
+    "acc_trade_price": 98362893605.71147,
+    "acc_trade_price_24h": 226388864095.7535,
+    "acc_trade_volume": 2533.80052496,
+    "acc_trade_volume_24h": 5871.93731255,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201476953
+  }
+]
+2023-05-04 20:57:52.019 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115801",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205801",
+    "trade_timestamp": 1683201481967,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38990000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 287000.0,
+    "change_rate": 0.0074154458,
+    "signed_change_price": 287000.0,
+    "signed_change_rate": 0.0074154458,
+    "trade_volume": 0.00099748,
+    "acc_trade_price": 98366663631.02037,
+    "acc_trade_price_24h": 226429086150.55487,
+    "acc_trade_volume": 2533.89722307,
+    "acc_trade_volume_24h": 5872.96914303,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201481999
+  }
+]
+2023-05-04 20:57:57.062 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115808",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205808",
+    "trade_timestamp": 1683201488607,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38984000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 281000.0,
+    "change_rate": 0.0072604191,
+    "signed_change_price": 281000.0,
+    "signed_change_rate": 0.0072604191,
+    "trade_volume": 0.012,
+    "acc_trade_price": 98372353666.80563,
+    "acc_trade_price_24h": 226429086150.55487,
+    "acc_trade_volume": 2534.04318028,
+    "acc_trade_volume_24h": 5872.96914303,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201488627
+  }
+]
+2023-05-04 20:58:02.109 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115811",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205811",
+    "trade_timestamp": 1683201491705,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38984000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 281000.0,
+    "change_rate": 0.0072604191,
+    "signed_change_price": 281000.0,
+    "signed_change_rate": 0.0072604191,
+    "trade_volume": 0.00127911,
+    "acc_trade_price": 98373901120.38017,
+    "acc_trade_price_24h": 226429086150.55487,
+    "acc_trade_volume": 2534.08287376,
+    "acc_trade_volume_24h": 5872.96914303,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201491741
+  }
+]
+2023-05-04 20:58:07.144 +09:00 [DBG] [Program][<Main>$         ][0030] 
+[
+  {
+    "market": "KRW-BTC",
+    "trade_date": "20230504",
+    "trade_time": "115817",
+    "trade_date_kst": "20230504",
+    "trade_time_kst": "205817",
+    "trade_timestamp": 1683201497430,
+    "opening_price": 38733000.0,
+    "high_price": 39112000.0,
+    "low_price": 38605000.0,
+    "trade_price": 38979000.0,
+    "prev_closing_price": 38703000.0,
+    "change": "RISE",
+    "change_price": 276000.0,
+    "change_rate": 0.0071312301,
+    "signed_change_price": 276000.0,
+    "signed_change_rate": 0.0071312301,
+    "trade_volume": 0.0070142,
+    "acc_trade_price": 98375109320.38882,
+    "acc_trade_price_24h": 226429086150.55487,
+    "acc_trade_volume": 2534.11386855,
+    "acc_trade_volume_24h": 5872.96914303,
+    "highest_52_week_price": 47800000.0,
+    "highest_52_week_date": "2022-05-06",
+    "lowest_52_week_price": 20700000.0,
+    "lowest_52_week_date": "2022-12-30",
+    "timestamp": 1683201497464
+  }
+]
+2023-05-04 20:58:52.955 +09:00 [DBG] [Program][<Main>$         ][0015] Run Application, BMS.Worker.DataCollector

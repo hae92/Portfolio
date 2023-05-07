@@ -1,0 +1,5 @@
+2023-05-04 01:45:37.691 +09:00 [DBG] [Program][<Main>$         ][0011] TEST
+2023-05-04 01:46:56.674 +09:00 [DBG] [Program][<Main>$         ][0010] Run Application, BMS.Worker.DataCollector
+2023-05-04 01:47:10.330 +09:00 [DBG] [Program][<Main>$         ][0010] Run Application, BMS.Worker.DataCollector
+2023-05-04 01:47:15.067 +09:00 [DBG] [Program][<Main>$         ][0014] Stop Application, BMS.Worker.DataCollector
+2023-05-04 01:52:16.668 +09:00 [DBG] [Program][<Main>$         ][0010] Run Application, BMS.Worker.DataCollector

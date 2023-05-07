@@ -1,0 +1,2 @@
+2023-05-04 11:27:52.201 +09:00 [DBG] [Program][<Main>$         ][0013] Run Application, BMS.Worker.DataCollector
+2023-05-04 11:28:00.289 +09:00 [DBG] [BMS.Actor.Manager.Common.MainActor][OnReceive       ][0047] Recieved Message : Message Test
